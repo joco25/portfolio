@@ -11,8 +11,8 @@ export default withSentryConfig(
 
       // Suppresses source map uploading logs during build
       silent: true,
-      org: 'JocoSage',
-      project: 'jocosage-portfolio',
+      org: 'joco25',
+      project: 'portfolio',
     },
     {
       // For all available options, see:
